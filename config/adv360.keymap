@@ -41,9 +41,9 @@
             bindings = <
       &none         &none   &none            &none        &none      &none                     &none          &none          &none   &none      &none           &none           &none          &none
  &kp ESCAPE         &kp Q   &kp W            &kp E        &kp R      &kp T                   &kp ESC          &none          &kp Y   &kp U      &kp I           &kp O           &kp P  &kp BACKSLASH
-    &kp TAB         &kp A   &kp S            &kp D        &kp F      &kp G               &sk LS(ESC)  &kp BACKSPACE  &sk LC(SPACE)                              &mo 1         &kp DEL          &none            &kp H   &kp J      &kp K    &kp L  &kp SEMI    &kp SQT
+    &kp TAB         &kp A   &kp S            &kp D        &kp F      &kp G               &kp LS(ESC)  &kp BACKSPACE  &kp LC(SPACE)                              &mo 1         &kp DEL          &none            &kp H   &kp J      &kp K    &kp L  &kp SEMI    &kp SQT
   &kp LSHFT         &kp Z   &kp X            &kp C        &kp V      &kp B                     &none          &none   &kp LEFT_ALT   &none      &none           &none           &none          &none            &kp N   &kp M  &kp COMMA  &kp DOT  &kp FSLH  &kp GRAVE
-      &none  &kp LEFT_WIN   &none  &sk LS(LC(TAB))  &sk LC(TAB)  &kp SPACE            &kp LEFT_SHIFT      &kp LCTRL          &none   &mo 2  &kp ENTER  &kp LEFT_ARROW  &kp DOWN_ARROW   &kp UP_ARROW  &kp RIGHT_ARROW   &none
+      &none  &kp LEFT_WIN   &none  &kp LS(LC(TAB))  &kp LC(TAB)  &kp SPACE            &kp LEFT_SHIFT      &kp LCTRL          &none   &mo 2  &kp ENTER  &kp LEFT_ARROW  &kp DOWN_ARROW   &kp UP_ARROW  &kp RIGHT_ARROW   &none
             >;
         };
 
